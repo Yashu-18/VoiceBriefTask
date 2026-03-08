@@ -53,19 +53,25 @@ VoiceBrief is a smart Android application designed to capture and instantly summ
 
 <table>
   <tr>
-    <td><img src="YOUR_IMAGE_LINK_1" alt="Dashboard" width="220" height="450" /><br/>Dashboard</td>
-    <td><img src="YOUR_IMAGE_LINK_2" alt="Recording Mode" width="220" height="450" /><br/>Recording Mode</td>
-    <td><img src="YOUR_IMAGE_LINK_3" alt="AI Meeting Summary" width="220" height="450" /><br/>AI Meeting Summary</td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/41344c56-8487-4bd3-a52a-278d34a2a961" alt="Dashboard" width="220" height="450"/><br/>
+      <b>Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5afd9118-d00e-448a-af28-f13ead5fcadf" alt="Recording Mode" width="220" height="450"/><br/>
+      <b>Recording Mode</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e066d3f1-7f0a-47c3-a096-e29b645ca95d" alt="AI Meeting Summary" width="220" height="450"/><br/>
+      <b>AI Meeting Summary</b>
+    </td>
   </tr>
 </table>
 
-*(Note: Replace `YOUR_IMAGE_LINK_...` with your actual image links once you upload them to GitHub by dragging and dropping them into a GitHub issue or PR comment box to get the CDN links)*
-
----
 
 ## Demo Video
 
-[Click here to watch the demo video](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Click here to watch the demo video](https://drive.google.com/file/d/1_a9MwfYl8PpVk0LxsQO3P20Fybb0Wf27/view?usp=drive_link)
 
 ---
 
